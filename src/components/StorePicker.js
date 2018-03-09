@@ -13,7 +13,7 @@ class StorePicker extends React.Component {
                     <button type="submit">Visist Store</button>
                 </form>
             </Fragment>
-        )
+        );
     }
 }
 
